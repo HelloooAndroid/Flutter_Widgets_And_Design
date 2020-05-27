@@ -1,4 +1,4 @@
-# flutterdesign
+# flutter Widgets and Design
 
 Project is to understand basic and customized widgets in flutter also includes rich design implementation.
 
